@@ -1,0 +1,8 @@
+.env
+chroma_data/
+checkpoints.db
+runs_history.json
+logs/
+.venv/
+__pycache__/
+*.pyc
